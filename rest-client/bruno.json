@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "NestJS-blog",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
